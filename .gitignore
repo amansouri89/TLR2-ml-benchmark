@@ -1,0 +1,5 @@
+*.xlsx
+tlr2_ml_fruit_scores.csv
+tlr2_model.pkl
+__pycache__/
+*.pyc
